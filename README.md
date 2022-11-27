@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFCCFF,100:FFCCCC&fontColor=FFF&height=200&section=header&text=Hello%20world,%20Let's%20ko!🚀&fontSize=40&animation=twinkling)
 
 
@@ -73,10 +75,17 @@
 <br>-->
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-
-
+<br>
+<br>
 </p>
-<br><br>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solbiko&show_icons=true&theme=dracula)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+  
+</div>
 
 
 
