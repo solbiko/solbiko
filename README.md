@@ -8,7 +8,10 @@
 <p align="center">✨ Techs that I've used ✨ </p>
 <p align = "center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=Argo&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/>
@@ -47,10 +50,9 @@
 <p align="center"> 👩‍💻 Techs that I'm studyng 👩‍💻 </p>
 <p align = "center">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=Argo&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
+
 <br>
-<img src="https://img.shields.io/badge/Apache Druid-29F1FB?style=flat-square&logo=ApacheDruid&logoColor=black"/> 
 </p>
 
 <p align="center">🛠 Tools 🛠</p>
